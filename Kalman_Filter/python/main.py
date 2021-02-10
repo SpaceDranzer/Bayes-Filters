@@ -9,7 +9,7 @@ class KF:
         # covariance of state Gaussian Random Variable
         self.P = np.eye(2)
 
-kf = KF(initial_x = 0.2, initial_v = 0.5)
+
 
 
 
